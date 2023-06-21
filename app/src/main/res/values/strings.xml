@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">NoteTasks</string>
+
+    //Navigation items
+    <string name="notes">Notes</string>
+    <string name="tasks">Tasks</string>
+    <string name="reminders">Reminder</string>
+    <string name="donts">Don\'ts</string>
+
 </resources>
